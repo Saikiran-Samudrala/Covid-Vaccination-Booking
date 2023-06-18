@@ -13,6 +13,6 @@ Copy and paste the source code to the location where your local web server acces
 
 Open a browser and go to URL “http://localhost/Covid-Vaccination-Booking-main" for booking flights.
 
-Open a browser and go to URL “http://localhost/Covid-Vaccination-Booking-main/Covid-Vaccination-Booking-main/admin/login.php" for admin and user login.
+Open a browser and go to URL “http://localhost/Covid-Vaccination-Booking-main/admin/login.php" for admin and user login.
 
 For example -> Username: admin / Password: admin123
